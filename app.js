@@ -45,5 +45,5 @@ app.get("/work", function(req, res){
 
 
 app.listen(process.env.PORT || 3000, function(){
-  console.log("Running server on port " + port);
+  console.log("Running server on port 3000...");
 })
